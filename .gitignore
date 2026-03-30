@@ -1,0 +1,11 @@
+# Lab 7 reference files — local only, not part of the project
+lab7_*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset — too large for git, share via Google Drive or Canvas
+*.csv
+*.xlsx
+*.xls
